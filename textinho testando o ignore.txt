@@ -1,0 +1,3 @@
+textinho testando o ignore.txt
+
+mais uma modificação parat testar o "git stash"
