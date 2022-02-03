@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Teste1 pro Git");
+        System.out.println("TEstE1 pro Git - PROBLEMA DE MERGE!");
     }
 }
